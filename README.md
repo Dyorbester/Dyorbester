@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Dyor
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=00ff99&center=true&vCenter=true&lines=C%23+Developer;Photo+%26+Video+Editor;Tech+Enthusiast)  
 
 ![header](https://images.steamusercontent.com/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
