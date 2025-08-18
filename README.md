@@ -10,7 +10,7 @@
 ### Programming & Creative Tools
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-75%25-00ff99?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-50%25-0077ff?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-25%25-0077ff?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Video Editing](https://img.shields.io/badge/Video_Editing-75%25-ff9900?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ---
